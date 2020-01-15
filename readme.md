@@ -5,8 +5,15 @@
 
 ---
 
-# Scratch To Kick Start about programming
+# Scratch Link
 
 - https://scratch.mit.edu/projects/editor/?tutorial=getStarted
+
+---
+
+# Submission and Progress of Assignments
+
+- https://cs50.me/cs50x
+- https://submit.cs50.io/users/tsabunkar
 
 ---
