@@ -11,6 +11,8 @@
   - Ex : gcc hello.c -o hello.out
 - Run : ./<output_file_name.out>
   - Ex : ./hello.out
-- Shortcut (Compile and Run) : gcc hello.c -o hello.out && ./hello.out
+- Shortcut (Compile and Run) :
+  - gcc hello.c -o hello.out && ./hello.out
+  - gcc fgets.c -o out/fgets.out && out/fgets.out
 
 ---
