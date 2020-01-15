@@ -16,3 +16,25 @@
   - gcc fgets.c -o out/fgets.out && out/fgets.out
 
 ---
+
+# Data-type in C
+
+- bool, a Boolean expression of either true or false
+- char, a single character like a or 2
+- double, a floating-point value with even more digits
+- float, a floating-point value, or real number with a decimal value
+- int, integers up to a certain size, or number of bits
+- long, integers with more bits, so they can count higher
+- string, a string of characters
+
+---
+
+# printf, too, there are different placeholders for each type:
+
+- %c for chars
+- %f for floats, doubles
+- %d for ints
+- %li for longs
+- %s for strings
+
+---
